@@ -11,11 +11,11 @@
 
   {"tag": "courses",
   "patterns": ["what courses are available", "how many courses are there in this college"],
-  "responses": ["Informatics College Pokhara has been in direct partnership with London Metropolitan University, \nUK to provide enviable higher education in IT and Business to students in Pokhara.\nFor Bachelors Degree in Information Technology we have been offering the specialization in BSc (Hons) Computing.\nFor Bachelors in Business Administration we have been offering the followings:\n\n1. BBA (Marketing) with International Business \n\n2. BBA (Accounting & Finance) with International Business\n\n3. BBA (International Business)"]
+  "responses": ["Univwesity of Rajasthan  has been in direct partnership with London Metropolitan University, \nUK to provide enviable higher education in IT and Business to students in Pokhara.\nFor Bachelors Degree in Information Technology we have been offering the specialization in BSc (Hons) Computing.\nFor Bachelors in Business Administration we have been offering the followings:\n\n1. BBA (Marketing) with International Business \n\n2. BBA (Accounting & Finance) with International Business\n\n3. BBA (International Business)"]
   },
 
    {"tag": "courseDuration",
-  "patterns": ["how long will be BIT or BBA course", "how long will it take to complete BIT or BBA course"],
+  "patterns": ["how long will be BCA or BBA course", "how long will it take to complete BIT or BBA course"],
   "responses": ["Our college offers 3 year long BIT course and 3 and half year long BBA course."]
   },
 
