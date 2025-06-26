@@ -1,4 +1,4 @@
-### Author: Riya Nakarmi ###
+### Author: Vikram Sharma###
 ### College Project ###
 
 import random
